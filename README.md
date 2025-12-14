@@ -7,7 +7,7 @@ Developed as part of coursework to demonstrate **object-oriented programming (OO
 
 ---
 
-## 🚀 Features
+## Features
 - **Category Management** – Create and organize podcast categories using encapsulated class structures.  
 - **Sorting & Comparison** – Custom comparator (`CompareID`) used to sort items dynamically.  
 - **Data Export** – Export data in a structured format (`exportLongForm.java`).  
@@ -15,7 +15,7 @@ Developed as part of coursework to demonstrate **object-oriented programming (OO
 
 ---
 
-## 🧠 Concepts Demonstrated
+## Concepts Demonstrated
 - **Object-Oriented Programming**
   - Encapsulation, inheritance, and abstraction across multiple classes.
   - Composition between objects such as Podcasts and Categories.
@@ -28,4 +28,4 @@ Developed as part of coursework to demonstrate **object-oriented programming (OO
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
