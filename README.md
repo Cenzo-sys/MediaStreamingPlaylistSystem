@@ -27,5 +27,3 @@ Developed as part of coursework to demonstrate **object-oriented programming (OO
   - Early application of **JUnit** testing to ensure correctness and maintainability.
 
 ---
-
-## Project Structure
