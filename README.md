@@ -1,6 +1,6 @@
 # MediaStreamingPlaylistSystem
 Java console app simulating a media streaming system. Demonstrating OOP, comparators, data export, and TDD principles.
-# 🎧 Media Streaming Playlist System (Java, OOP)
+# Media Streaming Playlist System (Java, OOP)
 
 A **Java-based console application** that simulates a simplified **media streaming platform** for managing podcasts, categories, and playlists.  
 Developed as part of coursework to demonstrate **object-oriented programming (OOP)**, **modular design**, and **data handling** in Java.
