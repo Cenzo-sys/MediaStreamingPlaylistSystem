@@ -4,7 +4,7 @@
 package mediastreaming;
 
 /**
- * Vincenzo Scappaticci 40489763
+ *
  * creates an object of class Podcast
  */
 public class Podcast {
@@ -78,3 +78,4 @@ public class Podcast {
 		System.out.println("Duration (Seconds) : "+duration+"\n");
 	}
 }
+
