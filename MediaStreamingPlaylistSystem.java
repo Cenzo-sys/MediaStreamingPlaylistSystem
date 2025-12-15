@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**  
- * Vincenzo Scappaticci 40489763
+ * 
  */
 public class MediaStreamingPlaylistSystem {
 
@@ -285,3 +285,4 @@ public class MediaStreamingPlaylistSystem {
 	
 	
 }
+
