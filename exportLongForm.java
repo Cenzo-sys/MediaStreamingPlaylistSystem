@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.util.List;
 
 /**
- * Vincenzo Scappaticci 40489763
+ * 
  * creates a new file that contains csv data on all podcasts that are longer or equal to
  * thrity minutes in length in sorted order
  */ 
@@ -54,3 +54,4 @@ public class exportLongForm implements Runnable {
 	}
 
 }
+
